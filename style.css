@@ -1,0 +1,1759 @@
+.cord,
+.cord * {
+  box-sizing: border-box;
+}
+.cord {
+  background: #ffffff;
+  height: 15100px;
+  position: relative;
+  overflow: hidden;
+}
+.background-color {
+  background: linear-gradient(
+    180deg,
+    rgba(100, 18, 18, 1) 0%,
+    rgba(186, 27, 27, 1) 58.66665840148926%
+  );
+  width: 1920px;
+  height: 14491px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.receipt-mushine-3-1 {
+  width: 1920px;
+  height: 5657.41px;
+  position: absolute;
+  left: 0px;
+  top: 9443px;
+  object-fit: cover;
+}
+.poster-2 {
+  width: 2475px;
+  height: 4124px;
+  position: absolute;
+  right: -304px;
+  top: calc(50% - -2036px);
+  object-fit: cover;
+}
+.big-sale-2 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1432.07px;
+  height: 432.63px;
+  position: absolute;
+  left: 293.55px;
+  top: 10127px;
+  transform-origin: 0 0;
+  transform: rotate(5.512deg) scale(1, 1);
+  object-fit: cover;
+}
+._3 {
+  width: 672.87px;
+  height: 307.74px;
+  position: absolute;
+  left: -116px;
+  top: 10193.08px;
+  transform-origin: 0 0;
+  transform: rotate(-34.91deg) scale(1, 1);
+  object-fit: cover;
+}
+._4 {
+  width: 672.87px;
+  height: 307.74px;
+  position: absolute;
+  left: 1375px;
+  top: 13174.08px;
+  transform-origin: 0 0;
+  transform: rotate(-34.91deg) scale(1, 1);
+  object-fit: cover;
+}
+.rectangle-7 {
+  width: 877px;
+  height: 581px;
+  position: absolute;
+  left: 798px;
+  top: 7172px;
+  overflow: visible;
+}
+.rectangle-9 {
+  width: 1131px;
+  height: 479px;
+  position: absolute;
+  left: 535px;
+  top: 7172px;
+  overflow: visible;
+}
+.rectangle-8 {
+  width: 1207.5px;
+  height: 296px;
+  position: absolute;
+  left: 499px;
+  top: 7172px;
+  overflow: visible;
+}
+._32 {
+  width: 1657px;
+  height: 2184px;
+  position: absolute;
+  left: -28px;
+  top: 5825px;
+  box-shadow: 0px 30px 4px 0px rgba(79, 17, 40, 0.69);
+  object-fit: cover;
+}
+.top-layout {
+  position: absolute;
+  inset: 0;
+}
+.receipt-mushine-1-1 {
+  width: 1920px;
+  height: 1460px;
+  position: absolute;
+  left: -3px;
+  top: 0px;
+  object-fit: cover;
+}
+.drug {
+  color: #e4ce01;
+  text-align: left;
+  position: absolute;
+  left: 960px;
+  top: 195px;
+}
+.drug-span {
+  color: #e4ce01;
+  font-family: "Alatsi-Regular", sans-serif;
+  font-size: 250px;
+  letter-spacing: -0.1em;
+  font-weight: 400;
+}
+.drug-span2 {
+  color: #e4ce01;
+  font-family: "Alatsi-Regular", sans-serif;
+  font-size: 250px;
+  font-weight: 400;
+}
+.drug-span3 {
+  color: #e4ce01;
+  font-family: "SquadaOne-Regular", sans-serif;
+  font-size: 330px;
+  font-weight: 400;
+}
+.top-receipt-2 {
+  width: 965px;
+  height: 5804px;
+  position: absolute;
+  left: 492px;
+  top: 933px;
+  object-fit: cover;
+}
+.top-receipt-1 {
+  width: 954px;
+  height: 5767px;
+  position: absolute;
+  left: 447px;
+  top: 933px;
+  object-fit: cover;
+}
+.div {
+  position: absolute;
+  inset: 0;
+}
+.div2 {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 816px;
+  position: absolute;
+  left: 503px;
+  top: 1013px;
+}
+.a-type-of-drug {
+  color: #360f0f;
+  text-align: center;
+  position: relative;
+  width: 641px;
+  height: 371px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.a-type-of-drug-span {
+  color: #360f0f;
+  font-family: "Kanit-Bold", sans-serif;
+  font-size: 96px;
+  line-height: 70px;
+  font-weight: 700;
+}
+.a-type-of-drug-span2 {
+  color: #360f0f;
+  font-family: "Kanit-Bold", sans-serif;
+  font-size: 200px;
+  line-height: 70px;
+  font-weight: 700;
+}
+.narcotics-is-a-word-derived-from-the-greek-word-nark-to-remove-sensations-and-has-properties-that-induce-dependence-and-abuse-along-with-specific-pharmacological-effects-mental-paralysis-pain-relief-and-indulgence-and-when-misused-or-abused-serious-health-and-social-harm-occurs {
+  color: #4d3f3f;
+  text-align: justified;
+  font-family: "Kanit-Regular", sans-serif;
+  font-size: 28px;
+  line-height: 40px;
+  font-weight: 400;
+  opacity: 0.8;
+  position: relative;
+  align-self: stretch;
+  height: 243px;
+}
+.line-1 {
+  background: #d9d9d9;
+  margin-top: -3px;
+  border-style: dashed;
+  border-color: #705b5b;
+  border-width: 3px 0 0 0;
+  width: 823px;
+  height: 0px;
+  position: absolute;
+  left: 499px;
+  top: 1633px;
+}
+.line-2 {
+  background: #d9d9d9;
+  margin-top: -3px;
+  border-style: dashed;
+  border-color: #705b5b;
+  border-width: 3px 0 0 0;
+  width: 823px;
+  height: 0px;
+  position: absolute;
+  left: 499px;
+  top: 1651px;
+}
+.date-loc {
+  color: #572525;
+  text-align: justified;
+  font-family: "Comme-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 35px;
+  font-weight: 400;
+  position: absolute;
+  left: 503px;
+  top: 1682px;
+  width: 819px;
+  height: 220px;
+}
+._24-jun-2024-supreme-prosecutors-office-157-banpo-daero-seocho-gu-seoul-republic-of-korea {
+  color: #572525;
+  text-align: right;
+  font-family: "Comme-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 35px;
+  font-weight: 400;
+  position: absolute;
+  left: 503px;
+  top: 1682px;
+  width: 819px;
+}
+.line-3 {
+  background: #d9d9d9;
+  margin-top: -3px;
+  border-style: dashed;
+  border-color: #705b5b;
+  border-width: 3px 0 0 0;
+  width: 823px;
+  height: 0px;
+  position: absolute;
+  left: 499.5px;
+  top: 1889px;
+}
+.line-4 {
+  background: #d9d9d9;
+  margin-top: -3px;
+  border-style: dashed;
+  border-color: #705b5b;
+  border-width: 3px 0 0 0;
+  width: 823px;
+  height: 0px;
+  position: absolute;
+  left: 499.5px;
+  top: 1907px;
+}
+.no {
+  color: #572525;
+  text-align: left;
+  font-family: "Comme-SemiBold", sans-serif;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 600;
+  position: absolute;
+  left: 503px;
+  top: 1925px;
+  width: 68px;
+  height: 34px;
+}
+.total {
+  color: #572525;
+  text-align: right;
+  font-family: "Comme-SemiBold", sans-serif;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 600;
+  position: absolute;
+  left: 1211px;
+  top: 1925px;
+  width: 108px;
+  height: 34px;
+}
+.qty-g {
+  color: #572525;
+  text-align: right;
+  font-family: "Comme-SemiBold", sans-serif;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 600;
+  position: absolute;
+  left: 1067px;
+  top: 1925px;
+  width: 144px;
+  height: 34px;
+}
+.item {
+  color: #572525;
+  text-align: left;
+  font-family: "Comme-SemiBold", sans-serif;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 600;
+  position: absolute;
+  left: 596px;
+  top: 1925px;
+  width: 323px;
+  height: 34px;
+}
+.line-5 {
+  background: #d9d9d9;
+  margin-top: -3px;
+  border-style: dashed;
+  border-color: #705b5b;
+  border-width: 3px 0 0 0;
+  width: 823px;
+  height: 0px;
+  position: absolute;
+  left: 499.5px;
+  top: 1988px;
+}
+.div3 {
+  width: 823px;
+  height: 1649px;
+  position: static;
+}
+._1 {
+  color: #572525;
+  text-align: left;
+  font-family: "Comme-Medium", sans-serif;
+  font-size: 36px;
+  line-height: 40px;
+  font-weight: 500;
+  position: absolute;
+  left: 503px;
+  top: 2013px;
+  width: 68px;
+  height: 34px;
+}
+._3-970 {
+  color: #572525;
+  text-align: right;
+  font-family: "Comme-Medium", sans-serif;
+  font-size: 36px;
+  line-height: 40px;
+  font-weight: 500;
+  position: absolute;
+  left: 1211px;
+  top: 2013px;
+  width: 108px;
+  height: 34px;
+}
+.div4 {
+  color: #572525;
+  text-align: left;
+  font-family: "Comme-SemiBold", sans-serif;
+  font-size: 36px;
+  line-height: 40px;
+  font-weight: 600;
+  position: absolute;
+  left: 596px;
+  top: 2013px;
+  width: 289px;
+  height: 34px;
+}
+.line-6 {
+  background: #d9d9d9;
+  margin-top: -2px;
+  border-style: dashed;
+  border-color: #735d5d;
+  border-width: 2px 0 0 0;
+  width: 823px;
+  height: 0px;
+  position: absolute;
+  left: 499.5px;
+  top: 2075px;
+}
+._01 {
+  color: #572525;
+  text-align: left;
+  font-family: "Comme-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 503px;
+  top: 2107px;
+  width: 68px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._163-999 {
+  color: #572525;
+  text-align: right;
+  font-family: "Comme-Regular", sans-serif;
+  font-size: 25px;
+  line-height: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 1059px;
+  top: 2106px;
+  width: 152px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.div5 {
+  color: #572525;
+  text-align: left;
+  font-family: "Comme-Medium", sans-serif;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 500;
+  position: absolute;
+  left: 596px;
+  top: 2107px;
+  width: 323px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.opium {
+  color: #572525;
+  text-align: justified;
+  font-family: "Comme-Medium", sans-serif;
+  font-size: 24px;
+  line-height: 27px;
+  font-weight: 500;
+  position: absolute;
+  left: 596px;
+  top: 2146px;
+  width: 615px;
+  height: 161px;
+}
+._02 {
+  color: #572525;
+  text-align: left;
+  font-family: "Comme-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 503px;
+  top: 2272px;
+  width: 68px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div6 {
+  color: #572525;
+  text-align: left;
+  font-family: "Comme-Medium", sans-serif;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 500;
+  position: absolute;
+  left: 596px;
+  top: 2272px;
+  width: 323px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.opium-resin-10 {
+  color: #572525;
+  text-align: justified;
+  font-family: "Comme-Medium", sans-serif;
+  font-size: 24px;
+  line-height: 27px;
+  font-weight: 500;
+  position: absolute;
+  left: 596px;
+  top: 2309px;
+  width: 615px;
+  height: 419px;
+}
+._03 {
+  color: #572525;
+  text-align: left;
+  font-family: "Comme-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 503px;
+  top: 2738px;
+  width: 68px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._1-362-07 {
+  color: #572525;
+  text-align: right;
+  font-family: "Comme-Regular", sans-serif;
+  font-size: 25px;
+  line-height: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 1059px;
+  top: 2737px;
+  width: 152px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.div7 {
+  color: #572525;
+  text-align: left;
+  font-family: "Comme-Medium", sans-serif;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 500;
+  position: absolute;
+  left: 596px;
+  top: 2738px;
+  width: 323px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.diacetylmorphine-heroin-10 {
+  color: #572525;
+  text-align: justified;
+  font-family: "Comme-Medium", sans-serif;
+  font-size: 24px;
+  line-height: 27px;
+  font-weight: 500;
+  position: absolute;
+  left: 596px;
+  top: 2777px;
+  width: 615px;
+  height: 266px;
+}
+._04 {
+  color: #572525;
+  text-align: left;
+  font-family: "Comme-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 503px;
+  top: 3044px;
+  width: 68px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._11-671-79 {
+  color: #572525;
+  text-align: right;
+  font-family: "Comme-Regular", sans-serif;
+  font-size: 25px;
+  line-height: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 1059px;
+  top: 3043px;
+  width: 152px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.div8 {
+  color: #572525;
+  text-align: left;
+  font-family: "Comme-Medium", sans-serif;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 500;
+  position: absolute;
+  left: 596px;
+  top: 3044px;
+  width: 323px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div9 {
+  color: #572525;
+  text-align: justified;
+  font-family: "Comme-Medium", sans-serif;
+  font-size: 24px;
+  line-height: 27px;
+  font-weight: 500;
+  position: absolute;
+  left: 596px;
+  top: 3083px;
+  width: 615px;
+  height: 139px;
+}
+._05 {
+  color: #572525;
+  text-align: left;
+  font-family: "Comme-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 503px;
+  top: 3238px;
+  width: 68px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._3-119-35 {
+  color: #572525;
+  text-align: right;
+  font-family: "Comme-Regular", sans-serif;
+  font-size: 25px;
+  line-height: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 1190px;
+  top: 3230px;
+  width: 129px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.div10 {
+  color: #572525;
+  text-align: left;
+  font-family: "Comme-Medium", sans-serif;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 500;
+  position: absolute;
+  left: 596px;
+  top: 3238px;
+  width: 323px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._5-10 {
+  color: #572525;
+  text-align: justified;
+  font-family: "Comme-Medium", sans-serif;
+  font-size: 24px;
+  line-height: 27px;
+  font-weight: 500;
+  position: absolute;
+  left: 596px;
+  top: 3277px;
+  width: 615px;
+  height: 157px;
+}
+._06 {
+  color: #572525;
+  text-align: left;
+  font-family: "Comme-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 503px;
+  top: 3466px;
+  width: 68px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._3-119-352 {
+  color: #572525;
+  text-align: right;
+  font-family: "Comme-Regular", sans-serif;
+  font-size: 25px;
+  line-height: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 1190px;
+  top: 3458px;
+  width: 129px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.div11 {
+  color: #572525;
+  text-align: left;
+  font-family: "Comme-Medium", sans-serif;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 500;
+  position: absolute;
+  left: 596px;
+  top: 3466px;
+  width: 323px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.crps-200-100-ld-100-2-mg {
+  color: #572525;
+  text-align: justified;
+  font-family: "Comme-Medium", sans-serif;
+  font-size: 24px;
+  line-height: 27px;
+  font-weight: 500;
+  position: absolute;
+  left: 596px;
+  top: 3505px;
+  width: 615px;
+  height: 157px;
+}
+.div12 {
+  width: 823px;
+  height: 1332px;
+  position: static;
+}
+._2 {
+  color: #572525;
+  text-align: left;
+  font-family: "Comme-Medium", sans-serif;
+  font-size: 36px;
+  line-height: 40px;
+  font-weight: 500;
+  position: absolute;
+  left: 503px;
+  top: 3711px;
+  width: 68px;
+  height: 34px;
+}
+._19-556 {
+  color: #572525;
+  text-align: right;
+  font-family: "Comme-Medium", sans-serif;
+  font-size: 36px;
+  line-height: 40px;
+  font-weight: 500;
+  position: absolute;
+  left: 1150px;
+  top: 3711px;
+  width: 169px;
+  height: 34px;
+}
+.line-7 {
+  background: #d9d9d9;
+  margin-top: -2px;
+  border-style: dashed;
+  border-color: #735d5d;
+  border-width: 2px 0 0 0;
+  width: 823px;
+  height: 0px;
+  position: absolute;
+  left: 499.5px;
+  top: 3687px;
+}
+.div13 {
+  color: #572525;
+  text-align: left;
+  font-family: "Comme-SemiBold", sans-serif;
+  font-size: 36px;
+  line-height: 40px;
+  font-weight: 600;
+  position: absolute;
+  left: 596px;
+  top: 3711px;
+  width: 289px;
+  height: 34px;
+}
+.line-62 {
+  background: #d9d9d9;
+  margin-top: -2px;
+  border-style: dashed;
+  border-color: #735d5d;
+  border-width: 2px 0 0 0;
+  width: 823px;
+  height: 0px;
+  position: absolute;
+  left: 499.5px;
+  top: 3773px;
+}
+._012 {
+  color: #572525;
+  text-align: left;
+  font-family: "Comme-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 503px;
+  top: 3805px;
+  width: 68px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div14 {
+  color: #572525;
+  text-align: left;
+  font-family: "Comme-Medium", sans-serif;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 500;
+  position: absolute;
+  left: 596px;
+  top: 3805px;
+  width: 323px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div15 {
+  color: #572525;
+  text-align: justified;
+  font-family: "Comme-Medium", sans-serif;
+  font-size: 24px;
+  line-height: 27px;
+  font-weight: 500;
+  position: absolute;
+  left: 596px;
+  top: 3844px;
+  width: 615px;
+  height: 161px;
+}
+._79-469-48 {
+  color: #572525;
+  text-align: right;
+  font-family: "Comme-Regular", sans-serif;
+  font-size: 25px;
+  line-height: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 1190px;
+  top: 3801px;
+  width: 129px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+._022 {
+  color: #572525;
+  text-align: left;
+  font-family: "Comme-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 503px;
+  top: 3979px;
+  width: 68px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.mdma {
+  color: #572525;
+  text-align: left;
+  font-family: "Comme-Medium", sans-serif;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 500;
+  position: absolute;
+  left: 596px;
+  top: 3979px;
+  width: 323px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.mdma-ecstacy-hugdrug-20-60-3-4 {
+  color: #572525;
+  text-align: justified;
+  font-family: "Comme-Medium", sans-serif;
+  font-size: 24px;
+  line-height: 27px;
+  font-weight: 500;
+  position: absolute;
+  left: 596px;
+  top: 4016px;
+  width: 615px;
+  height: 224px;
+}
+._42-179-04 {
+  color: #572525;
+  text-align: right;
+  font-family: "Comme-Regular", sans-serif;
+  font-size: 25px;
+  line-height: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 1059px;
+  top: 3979px;
+  width: 152px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+._032 {
+  color: #572525;
+  text-align: left;
+  font-family: "Comme-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 503px;
+  top: 4252px;
+  width: 68px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._2-333-03 {
+  color: #572525;
+  text-align: right;
+  font-family: "Comme-Regular", sans-serif;
+  font-size: 25px;
+  line-height: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 1059px;
+  top: 4251px;
+  width: 152px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.lsd {
+  color: #572525;
+  text-align: left;
+  font-family: "Comme-Medium", sans-serif;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 500;
+  position: absolute;
+  left: 596px;
+  top: 4252px;
+  width: 323px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.lsd-lysergic-acid-diethylamide-1938-albert-hofmann {
+  color: #572525;
+  text-align: justified;
+  font-family: "Comme-Medium", sans-serif;
+  font-size: 24px;
+  line-height: 27px;
+  font-weight: 500;
+  position: absolute;
+  left: 596px;
+  top: 4291px;
+  width: 615px;
+  height: 115px;
+}
+._042 {
+  color: #572525;
+  text-align: left;
+  font-family: "Comme-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 503px;
+  top: 4419px;
+  width: 68px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._79-469-482 {
+  color: #572525;
+  text-align: right;
+  font-family: "Comme-Regular", sans-serif;
+  font-size: 25px;
+  line-height: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 1190px;
+  top: 4419px;
+  width: 129px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.div16 {
+  color: #572525;
+  text-align: left;
+  font-family: "Comme-Medium", sans-serif;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 500;
+  position: absolute;
+  left: 596px;
+  top: 4419px;
+  width: 323px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.thc-thc-tetrahydrocannabinol {
+  color: #572525;
+  text-align: justified;
+  font-family: "Comme-Medium", sans-serif;
+  font-size: 24px;
+  line-height: 27px;
+  font-weight: 500;
+  position: absolute;
+  left: 596px;
+  top: 4458px;
+  width: 615px;
+  height: 163px;
+}
+._052 {
+  color: #572525;
+  text-align: left;
+  font-family: "Comme-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 503px;
+  top: 4641px;
+  width: 68px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._42-579-33 {
+  color: #572525;
+  text-align: right;
+  font-family: "Comme-Regular", sans-serif;
+  font-size: 25px;
+  line-height: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 1059px;
+  top: 4638px;
+  width: 152px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.div17 {
+  color: #572525;
+  text-align: left;
+  font-family: "Comme-Medium", sans-serif;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 500;
+  position: absolute;
+  left: 596px;
+  top: 4637px;
+  width: 323px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.date-rape-drug {
+  color: #572525;
+  text-align: justified;
+  font-family: "Comme-Medium", sans-serif;
+  font-size: 24px;
+  line-height: 27px;
+  font-weight: 500;
+  position: absolute;
+  left: 596px;
+  top: 4680px;
+  width: 615px;
+  height: 84px;
+}
+._062 {
+  color: #572525;
+  text-align: left;
+  font-family: "Comme-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 503px;
+  top: 4781px;
+  width: 68px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._210-811-93 {
+  color: #572525;
+  text-align: right;
+  font-family: "Comme-Regular", sans-serif;
+  font-size: 25px;
+  line-height: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 1059px;
+  top: 4781px;
+  width: 152px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.div18 {
+  color: #572525;
+  text-align: left;
+  font-family: "Comme-Medium", sans-serif;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 500;
+  position: absolute;
+  left: 596px;
+  top: 4781px;
+  width: 323px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._30-60-10 {
+  color: #572525;
+  text-align: justified;
+  font-family: "Comme-Medium", sans-serif;
+  font-size: 24px;
+  line-height: 27px;
+  font-weight: 500;
+  position: absolute;
+  left: 596px;
+  top: 4820px;
+  width: 615px;
+  height: 86px;
+}
+._063 {
+  color: #572525;
+  text-align: left;
+  font-family: "Comme-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 503px;
+  top: 4926px;
+  width: 68px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._79-469-483 {
+  color: #572525;
+  text-align: right;
+  font-family: "Comme-Regular", sans-serif;
+  font-size: 25px;
+  line-height: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 1190px;
+  top: 4918px;
+  width: 129px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.ghb {
+  color: #572525;
+  text-align: left;
+  font-family: "Comme-Medium", sans-serif;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 500;
+  position: absolute;
+  left: 596px;
+  top: 4926px;
+  width: 323px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.ghb-date-rape-drug {
+  color: #572525;
+  text-align: justified;
+  font-family: "Comme-Medium", sans-serif;
+  font-size: 24px;
+  line-height: 27px;
+  font-weight: 500;
+  position: absolute;
+  left: 596px;
+  top: 4965px;
+  width: 615px;
+  height: 54px;
+}
+.div19 {
+  width: 823px;
+  height: 441px;
+  position: static;
+}
+.line-72 {
+  background: #d9d9d9;
+  margin-top: -2px;
+  border-style: dashed;
+  border-color: #735d5d;
+  border-width: 2px 0 0 0;
+  width: 823px;
+  height: 0px;
+  position: absolute;
+  left: 499.5px;
+  top: 5044px;
+}
+._33 {
+  color: #572525;
+  text-align: left;
+  font-family: "Comme-Medium", sans-serif;
+  font-size: 36px;
+  line-height: 40px;
+  font-weight: 500;
+  position: absolute;
+  left: 503px;
+  top: 5068px;
+  width: 68px;
+  height: 34px;
+}
+.div20 {
+  color: #572525;
+  text-align: left;
+  font-family: "Comme-SemiBold", sans-serif;
+  font-size: 36px;
+  line-height: 40px;
+  font-weight: 600;
+  position: absolute;
+  left: 596px;
+  top: 5068px;
+  width: 289px;
+  height: 34px;
+}
+._4-085 {
+  color: #572525;
+  text-align: right;
+  font-family: "Comme-Medium", sans-serif;
+  font-size: 36px;
+  line-height: 40px;
+  font-weight: 500;
+  position: absolute;
+  left: 1150px;
+  top: 5068px;
+  width: 169px;
+  height: 34px;
+}
+.line-63 {
+  background: #d9d9d9;
+  margin-top: -2px;
+  border-style: dashed;
+  border-color: #735d5d;
+  border-width: 2px 0 0 0;
+  width: 823px;
+  height: 0px;
+  position: absolute;
+  left: 499.5px;
+  top: 5130px;
+}
+._013 {
+  color: #572525;
+  text-align: left;
+  font-family: "Comme-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 503px;
+  top: 5162px;
+  width: 68px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div21 {
+  color: #572525;
+  text-align: left;
+  font-family: "Comme-Medium", sans-serif;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 500;
+  position: absolute;
+  left: 596px;
+  top: 5162px;
+  width: 323px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div22 {
+  color: #572525;
+  text-align: justified;
+  font-family: "Comme-Medium", sans-serif;
+  font-size: 24px;
+  line-height: 27px;
+  font-weight: 500;
+  position: absolute;
+  left: 596px;
+  top: 5201px;
+  width: 615px;
+  height: 111px;
+}
+._114-154-70 {
+  color: #572525;
+  text-align: right;
+  font-family: "Comme-Regular", sans-serif;
+  font-size: 25px;
+  line-height: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 1059px;
+  top: 5162px;
+  width: 152px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+._023 {
+  color: #572525;
+  text-align: left;
+  font-family: "Comme-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 503px;
+  top: 5336px;
+  width: 68px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div23 {
+  color: #572525;
+  text-align: left;
+  font-family: "Comme-Medium", sans-serif;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 500;
+  position: absolute;
+  left: 596px;
+  top: 5336px;
+  width: 323px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._10-thc-8-10 {
+  color: #572525;
+  text-align: justified;
+  font-family: "Comme-Medium", sans-serif;
+  font-size: 24px;
+  line-height: 27px;
+  font-weight: 500;
+  position: absolute;
+  left: 596px;
+  top: 5373px;
+  width: 615px;
+  height: 112px;
+}
+._3-183-59 {
+  color: #572525;
+  text-align: right;
+  font-family: "Comme-Regular", sans-serif;
+  font-size: 25px;
+  line-height: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 1059px;
+  top: 5336px;
+  width: 152px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.line-32 {
+  background: #d9d9d9;
+  margin-top: -3px;
+  border-style: dashed;
+  border-color: #705b5b;
+  border-width: 3px 0 0 0;
+  width: 823px;
+  height: 0px;
+  position: absolute;
+  left: 500.5px;
+  top: 5510px;
+}
+.line-42 {
+  background: #d9d9d9;
+  margin-top: -3px;
+  border-style: dashed;
+  border-color: #705b5b;
+  border-width: 3px 0 0 0;
+  width: 823px;
+  height: 0px;
+  position: absolute;
+  left: 500.5px;
+  top: 5528px;
+}
+.total-count {
+  color: #572525;
+  text-align: left;
+  font-family: "Comme-ExtraBold", sans-serif;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 800;
+  position: absolute;
+  left: 503px;
+  top: 5552px;
+  width: 219px;
+  height: 35px;
+}
+._27-611 {
+  color: #572525;
+  text-align: right;
+  font-family: "Comme-ExtraBold", sans-serif;
+  font-size: 36px;
+  line-height: 40px;
+  font-weight: 800;
+  position: absolute;
+  left: 1150px;
+  top: 5553px;
+  width: 169px;
+  height: 34px;
+}
+.line-64 {
+  background: #d9d9d9;
+  margin-top: -3px;
+  border-style: dashed;
+  border-color: #705b5b;
+  border-width: 3px 0 0 0;
+  width: 823px;
+  height: 0px;
+  position: absolute;
+  left: 500.5px;
+  top: 5614px;
+}
+.line-73 {
+  background: #d9d9d9;
+  margin-top: -3px;
+  border-style: dashed;
+  border-color: #705b5b;
+  border-width: 3px 0 0 0;
+  width: 823px;
+  height: 0px;
+  position: absolute;
+  left: 500.5px;
+  top: 5630px;
+}
+.card-auth-code-membership-arrest-point-availaeble-point {
+  color: #572525;
+  text-align: justified;
+  font-family: "Comme-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 35px;
+  font-weight: 400;
+  position: absolute;
+  left: 503px;
+  top: 5650px;
+  width: 819px;
+  height: 220px;
+}
+._480-2-0-056590-not-allowed-3-422-24-198 {
+  color: #572525;
+  text-align: right;
+  font-family: "Comme-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 35px;
+  font-weight: 400;
+  position: absolute;
+  left: 503px;
+  top: 5650px;
+  width: 819px;
+}
+.line-8 {
+  background: #d9d9d9;
+  margin-top: -3px;
+  border-style: dashed;
+  border-color: #705b5b;
+  border-width: 3px 0 0 0;
+  width: 823px;
+  height: 0px;
+  position: absolute;
+  left: 496px;
+  top: 5852px;
+}
+.world-health-organization-who-2-defines-drugs-as-follows-the-desire-for-drug-use-is-strong-enough-to-force-dependence-the-amount-of-drugs-used-tends-to-increase-tolerant-if-you-stop-using-it-you-will-experience-symptoms-that-are-difficult-to-endure-all-over-your-body-withdrawal-symptoms-a-drug-that-is-not-limited-to-individuals-but-harms-society {
+  color: #695d5c;
+  text-align: justified;
+  font-family: "Kanit-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 499px;
+  top: 5891px;
+  width: 824px;
+  height: 246px;
+}
+.line-9 {
+  background: #d9d9d9;
+  margin-top: -3px;
+  border-style: dashed;
+  border-color: #705b5b;
+  border-width: 3px 0 0 0;
+  width: 823px;
+  height: 0px;
+  position: absolute;
+  left: 500px;
+  top: 6173px;
+}
+.line-10 {
+  background: #d9d9d9;
+  margin-top: -3px;
+  border-style: dashed;
+  border-color: #705b5b;
+  border-width: 3px 0 0 0;
+  width: 823px;
+  height: 0px;
+  position: absolute;
+  left: 500px;
+  top: 6189px;
+}
+._06-2024-03-02-supreme-prosecutors-office {
+  color: #572525;
+  text-align: center;
+  font-family: "Comme-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 35px;
+  font-weight: 400;
+  position: absolute;
+  left: 503px;
+  top: 6236px;
+  width: 819px;
+  height: 78px;
+}
+._06-2024-03-02-supreme-prosecutors-office-span {
+  color: #572525;
+  list-style-type: decimal;
+  padding-left: 1em;
+  font-family: "Comme-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 35px;
+  font-weight: 400;
+}
+._06-2024-03-02-supreme-prosecutors-office-span2 {
+  color: #572525;
+  font-family: "Comme-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 35px;
+  font-weight: 400;
+}
+.barcode-4 {
+  width: 829px;
+  height: 195px;
+  position: absolute;
+  left: 503px;
+  top: 6354px;
+  object-fit: cover;
+}
+.inquires-about-drug-addiction-treatment-call-now-1342 {
+  color: #572525;
+  text-align: center;
+  font-family: "Comme-Regular", sans-serif;
+  font-size: 31px;
+  line-height: 35px;
+  font-weight: 400;
+  position: absolute;
+  left: 503px;
+  top: 6552px;
+  width: 819px;
+  height: 78px;
+}
+._1-3 {
+  width: 1176px;
+  height: 778px;
+  position: absolute;
+  left: 1036px;
+  top: 5876px;
+  object-fit: cover;
+}
+._1-4 {
+  width: 1176px;
+  height: 778px;
+  position: absolute;
+  left: 903px;
+  top: 5803px;
+  object-fit: cover;
+}
+.mdma-1-2 {
+  width: 766px;
+  height: 793px;
+  position: absolute;
+  left: 1278px;
+  top: 4292px;
+  object-fit: cover;
+}
+._2-1 {
+  width: 471px;
+  height: 503px;
+  position: absolute;
+  left: -24px;
+  top: 2889px;
+  object-fit: cover;
+}
+._42 {
+  width: 805px;
+  height: 452px;
+  position: absolute;
+  left: -193px;
+  top: 3392px;
+  object-fit: cover;
+}
+._34 {
+  width: 417px;
+  height: 351px;
+  position: absolute;
+  left: 147px;
+  top: 3213px;
+  object-fit: cover;
+}
+._2-2 {
+  width: 506.2px;
+  height: 1389.47px;
+  position: absolute;
+  left: 1515.75px;
+  top: 1941px;
+  transform-origin: 0 0;
+  transform: rotate(27.563deg) scale(-1, 1);
+  object-fit: cover;
+}
+._1-1 {
+  width: 693.08px;
+  height: 793.96px;
+  position: absolute;
+  left: 1752.19px;
+  top: 2145.56px;
+  transform-origin: 0 0;
+  transform: rotate(37.623deg) scale(-1, 1);
+  object-fit: cover;
+}
+.lsd-1 {
+  width: 646px;
+  height: 761px;
+  position: absolute;
+  left: 1254px;
+  top: 3911px;
+  object-fit: cover;
+}
+.mdma-3-2 {
+  width: 119.42px;
+  height: 104.06px;
+  position: absolute;
+  left: 1097.71px;
+  top: 5487.59px;
+  transform-origin: 0 0;
+  transform: rotate(100.289deg) scale(1, 1);
+  object-fit: cover;
+}
+.mdma-2-2 {
+  width: 207.18px;
+  height: 186.07px;
+  position: absolute;
+  left: 1321.6px;
+  top: 5162px;
+  transform-origin: 0 0;
+  transform: rotate(20.315deg) scale(1, 1);
+  object-fit: cover;
+}
+.mdma-2-3 {
+  width: 140.86px;
+  height: 126.5px;
+  position: absolute;
+  left: 292.92px;
+  top: 5852px;
+  transform-origin: 0 0;
+  transform: rotate(20.315deg) scale(1, 1);
+  object-fit: cover;
+}
+.mdma-4-4 {
+  width: 196px;
+  height: 186px;
+  position: absolute;
+  left: 58px;
+  top: 5755.58px;
+  transform-origin: 0 0;
+  transform: rotate(-71.23deg) scale(1, 1);
+  object-fit: cover;
+}
+._12 {
+  width: 1920px;
+  height: 2588px;
+  position: absolute;
+  left: -100px;
+  top: 6855px;
+  object-fit: cover;
+}
